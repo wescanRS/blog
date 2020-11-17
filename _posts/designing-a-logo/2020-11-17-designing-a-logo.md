@@ -3,7 +3,7 @@ title: Designing a logo
 date: 2020-11-17 11:11:11 +07:00
 tags: [design, logo]
 description: The journey of designing a logo
-image: "final_cap.png"
+image: ".final_cap.png"
 ---
 
 
