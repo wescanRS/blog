@@ -3,7 +3,7 @@ title: wescan
 description: 'wescan is a search engine for the internet, not the web, and this is our blog where we write about our tech'
 lang: en-US
 timezone:
-# image: assets/img/ogp.png
+image: assets/img/ogp.png
 repo: https://github.com/wescanRS/blog
 mode: light
 
