@@ -23,7 +23,7 @@ We've tried to make ourselves a logo before but it was still hard. we've tried
 yeah, we used to be named rescan 😎
 
 ## Second attempt - Uhhhhhhh
-![uhhh.png]()
+![](uhhh.png)
 So this time we just wrote wescan and used cool colors and it came out pretty decent but we were not satisfied
 
 ## Third Attempt - Uhhhh v2
