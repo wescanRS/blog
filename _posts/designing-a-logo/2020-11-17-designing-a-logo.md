@@ -27,6 +27,6 @@ yeah, we used to be named rescan 😎
 So this time we just wrote wescan and used cool colors and it came out pretty decent but we were not satisfied
 
 ## Third Attempt - Uhhhh v2
-We just did the same thing again, still not satisfied because of the w, it looks like it was designed by [Brian Johnshon)[https://en.wikipedia.org/wiki/Brian_Johnson]
+We just did the same thing again, still not satisfied because of the w, it looks like it was designed by [Brian Johnshon](https://en.wikipedia.org/wiki/Brian_Johnson)
 
 > Reach out to us on [twitter](https://twitter.com/wescanRS) if you're a graphic designer / can create logos that don't look like a side project of AC/DC!
